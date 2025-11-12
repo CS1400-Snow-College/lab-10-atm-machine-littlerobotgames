@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab10ATM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+842639930031a161f5034ab8fd459b418a6253d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2397d1084e1d312c06163ef924cac75a39a2aacc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab10ATM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab10ATM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

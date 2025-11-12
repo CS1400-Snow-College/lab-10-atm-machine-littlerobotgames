@@ -1,0 +1,15 @@
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-10-atm-machine-littlerobotgames\Lab10ATM\bin\Debug\net8.0\Lab10ATM.exe
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-10-atm-machine-littlerobotgames\Lab10ATM\bin\Debug\net8.0\Lab10ATM.deps.json
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-10-atm-machine-littlerobotgames\Lab10ATM\bin\Debug\net8.0\Lab10ATM.runtimeconfig.json
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-10-atm-machine-littlerobotgames\Lab10ATM\bin\Debug\net8.0\Lab10ATM.dll
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-10-atm-machine-littlerobotgames\Lab10ATM\bin\Debug\net8.0\Lab10ATM.pdb
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-10-atm-machine-littlerobotgames\Lab10ATM\obj\Debug\net8.0\Lab10ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-10-atm-machine-littlerobotgames\Lab10ATM\obj\Debug\net8.0\Lab10ATM.AssemblyInfoInputs.cache
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-10-atm-machine-littlerobotgames\Lab10ATM\obj\Debug\net8.0\Lab10ATM.AssemblyInfo.cs
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-10-atm-machine-littlerobotgames\Lab10ATM\obj\Debug\net8.0\Lab10ATM.csproj.CoreCompileInputs.cache
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-10-atm-machine-littlerobotgames\Lab10ATM\obj\Debug\net8.0\Lab10ATM.sourcelink.json
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-10-atm-machine-littlerobotgames\Lab10ATM\obj\Debug\net8.0\Lab10ATM.dll
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-10-atm-machine-littlerobotgames\Lab10ATM\obj\Debug\net8.0\refint\Lab10ATM.dll
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-10-atm-machine-littlerobotgames\Lab10ATM\obj\Debug\net8.0\Lab10ATM.pdb
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-10-atm-machine-littlerobotgames\Lab10ATM\obj\Debug\net8.0\Lab10ATM.genruntimeconfig.cache
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-10-atm-machine-littlerobotgames\Lab10ATM\obj\Debug\net8.0\ref\Lab10ATM.dll
